@@ -215,7 +215,7 @@ let songs = [
         album: "Unreleased",
         albumArtUrl: "https://upload.wikimedia.org/wikipedia/id/b/b2/Dewa_-_Laskar_Cinta.jpg", 
         audioSrc: "audio/Aku Milikmu - Dewa 19.mp3",
-        videoBgSrc: "videos/Dewa19.mp4",
+        videoBgSrc: "videos/Dewa_19.mp4",
         lyrics: [
             { time: 15, text: "Terdengar lirih bisikanmu" },
             { time: 18, text: "Di antara bayang-bayangmu" },
